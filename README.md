@@ -1,6 +1,6 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge) 
 
-<h1>Projeto: Site para uma confeitaria</h1>
+<h1>Projeto: Site para uma Confeitaria</h1>
 
 <h2>📌 Sobre o Projeto</h2>
 <p>Este é um projeto Front-End dedicado a uma Confeitaria. Desenvolvido praticar o desenvolvimento de aplicações mais completas e complexas. Projeto pessoal, criado por mim.</p>
