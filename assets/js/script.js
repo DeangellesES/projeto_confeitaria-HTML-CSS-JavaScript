@@ -52,23 +52,20 @@ var swiper1  = new Swiper(".home-slider", {
 var swiper2  = new Swiper(".secao__depoimentos", {
 
     slidesPerView: 1,
+    spaceBetween: 0, 
+    loop: true,
     autoplay: {
-        delay: 2500,
-        disableOnInteraction: false,
+        delay: 2500,   
     },
     
-    grapCursor: true,
-    loop: true,
-    centeredSlides: true,
-
     pagination: {
         el: '.swiper-pagination2',
         clickable: true
     },
 
     navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev'
+        nextEl: '.swiper-button-next-um',
+        prevEl: '.swiper-button-prev-um'
     },
 
 })
